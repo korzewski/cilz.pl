@@ -3,6 +3,10 @@
       {
         "source": "/magazyn",
         "destination": "https://docs.google.com/spreadsheets/d/1Hzu6RTQb8mAENqRCL_DkT2g8hnMAO6uk65LlPDMAdYo/edit?pli=1&gid=43496050#gid=43496050"
+      },
+      {
+        "source": "/magazyn/wpis",
+        "destination": "https://docs.google.com/forms/d/e/1FAIpQLScPv5jjIaVovMlU6UJmWICs32tOvd5x-hCGKPgNIGMm_2rmPw/viewform"
       }
     ]
   }
