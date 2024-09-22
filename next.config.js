@@ -2,7 +2,7 @@ const stanyMagazynowe = new URL(
   'https://docs.google.com/spreadsheets/d/1Hzu6RTQb8mAENqRCL_DkT2g8hnMAO6uk65LlPDMAdYo/edit?pli=1&gid=43496050#gid=43496050'
 )
 
-const nextConfig = {
+module.exports = {
   async redirects() {
     return [
       {
@@ -13,5 +13,3 @@ const nextConfig = {
     ]
   }
 }
-
-export default nextConfig
